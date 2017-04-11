@@ -11,8 +11,7 @@ In-game screenshot will be added after the next raid
 1. Close any instance of WoW
 2. Download **[BigWigs Zip file](https://github.com/Linae-Kronos/BigWigs/archive/master.zip)**
 3. Extract the zip file wherever you want
-4. Copy all the folders that are inside "BigWigs" to Wow_Folder\Interface\AddOns : "BigWigs", "BigWigs_AQ20", "BigWigs_AQ40", "BigWigs_BWL", "BigWigs_CommonAuras", "BigWigs_CThunAssist", "BigWigs_MC", "BigWigs_Naxxramas", "BigWigs_Onyxia", "BigWigs_Other", "BigWigs_ZG"
-Your addon folder should look like this :
+4. Copy all the folders that are inside the folder "BigWigs" to Wow_Folder\Interface\AddOns. Your addon folder should look like this :
 ```
 ├── WoW_Folder
     ├── Interface
