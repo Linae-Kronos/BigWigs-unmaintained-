@@ -1,7 +1,7 @@
 # BigWigs
 
 Big Wigs is a boss encounter add-on. It consists of many individual encounter scripts, or boss modules, mini add-ons that are designed to trigger alert messages, timer bars, sounds, and so forth, for one specific raid encounter.
-This version has been specifically tweaked for Kronos by [Risen](http://www.risencc.com/).
+This version has been specifically tweaked for Kronos by [Masil](armory.twinstar.cz/character-sheet.xml?r=Kronos&cn=masil).
 
 ## Screenshot
 
@@ -69,5 +69,5 @@ That will display a frame you can move to choose where to display the BigWigs Ba
 
 ## Credits
 HappyMonster who shared the addon
-[Risen](http://www.risencc.com/) for the tweaks
+[Masil](armory.twinstar.cz/character-sheet.xml?r=Kronos&cn=masil) for the tweaks
 
